@@ -1,6 +1,6 @@
-# 🚗 Bolttech Carental Backend
+# 🚗 Bolttech Car Rental Backend
 
-Welcome to the backend service for the **Bolttech Carental MVP** — a car rental platform based in Barcelona
+Welcome to the backend service for the **Bolttech Car Rental MVP** — a car rental platform based in Barcelona
 
 ## 🛠 Tech Stack
 
