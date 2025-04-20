@@ -41,6 +41,12 @@ pnpm typeorm migration:run
 
 This will apply all migrations to the database.
 
+### 4. Start Project
+
+```bash
+pnpm start:dev
+```
+
 ---
 
 ## 📡 API Endpoints
