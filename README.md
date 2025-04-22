@@ -47,7 +47,7 @@ This will apply all migrations to the database.
 pnpm start:dev
 ```
 
-The app should now be running at [http://localhost:3000](http://localhost:3000).
+The app should now be running at [http://localhost:8080](http://localhost:8080).
 
 ---
 
