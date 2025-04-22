@@ -47,6 +47,7 @@ This will apply all migrations to the database.
 pnpm start:dev
 ```
 
+Then the project should be running in localhost:8080
 ---
 
 ## 📡 API Endpoints
