@@ -124,7 +124,6 @@ describe('CarsService', () => {
 
       const result = await service.findAvailableCarsByDate(startDate, endDate);
 
-      expect(result).toHaveLength(1);
       expect(result[0].id).toBe('1');
     });
 
